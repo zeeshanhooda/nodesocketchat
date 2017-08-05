@@ -67,4 +67,4 @@ if you see a plain chat-styled window, it worked.
 
 share with whoever you want! you have a chat apparatus now. remember, when you close the terminal windows, server will be shut down. whenever you want to re-initialize the server, folow step 6 through 8. remember that the chat apparatus will only be enabled and broadcasting to the server when both the terminal windows are open, so if you turn off your computer, you turn off the chat. if you want something more permanent without these limitations, try running it on an always-on dedicated server.
 
-## This is my first work so enjoy!
+## This is my first git works so enjoy!
