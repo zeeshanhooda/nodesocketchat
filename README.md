@@ -3,9 +3,9 @@ chat using socket.io documentation
 
 > code
 
-###Installation 
+### Installation 
 
-######(For Mac. If youre on Windows, youre on your own.)
+###### (For Mac. If youre on Windows, youre on your own.)
 
 first
 
