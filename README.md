@@ -1,7 +1,6 @@
-# nodesocketchat
-chat using socket.io documentation
+# Node Socket Chat Application
 
-> code
+#### This chat app is based off of the Socket.io documentation, running on a Node.js server, through Express.js.
 
 ## Installation 
 
