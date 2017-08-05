@@ -7,19 +7,19 @@ chat using socket.io documentation
 
 ###### (For Mac. If youre on Windows, youre on your own.)
 
-### first
+### Step 1
 
 >download zip
 
-#### second
+### Step 2
 
 >extract to easily findable location
 
-#### third
+### Step 3
 
 go to [nodejs.org](nodejs.org) and install the latest version of node. Should be 8.x.x.
 
-#### fourth
+### Step 4
 
 open terminal and run
 
@@ -27,13 +27,13 @@ open terminal and run
 
 to verify your version
 
-#### fifth
+### Step 5
 
 change directory to where you extracted the zip file with
 
 >cd /your/folder/path
 
-#### sixth
+### Step 6
 
 run
 
@@ -46,7 +46,7 @@ to verify that the server is working. if you get the response
 it is working properly. 
 
 
-#### seventh
+### Step 7
 
 make sure the ngrok executable is in the application directory
 
@@ -58,13 +58,13 @@ then run
 
 the terminal window should open the ngrok aparatus (black with a few links)
 
-#### eighth
+### Step 8
 
 copy the http://xxx.ngrok.io link and paste in a browser to test functionality
 
 if you see a plain chat-styled window, it worked.
 
-#### ninth
+### Step 9
 
 share with whoever you want! you have a chat apparatus now. remember, when you close the terminal windows, server will be shut down. whenever you want to re-initialize the server, folow step 6 through 8. remember that the chat apparatus will only be enabled and broadcasting to the server when both the terminal windows are open, so if you turn off your computer, you turn off the chat. if you want something more permanent without these limitations, try running it on an always-on dedicated server.
 
