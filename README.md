@@ -9,11 +9,11 @@ chat using socket.io documentation
 
 ### Step 1
 
->download zip
+download zip
 
 ### Step 2
 
->extract to easily findable location
+extract to easily findable location
 
 ### Step 3
 
